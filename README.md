@@ -42,11 +42,11 @@ não hesite em entrar em contato conosco.
 Estamos animados para embarcar nessa jornada de aprendizado com vocês!
 Vamos explorar o mundo do Pensamento Computacional juntos!
 
-Atenciosamente,
-Claudio Roberto da Silva
-Professor
-[Universidade ou Instituição]
-[Data]
+Atenciosamente,<br>
+Claudio Roberto da Silva<br>
+Professor<br>
+Colégio Estadual São Pedro Apóstolo<br>
+&copy;2025
 
 ---
 
