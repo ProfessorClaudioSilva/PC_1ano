@@ -1,3 +1,5 @@
+# **PC_1ano**
+
 # **Bem-vindos ao Repositório de Pensamento Computacional!**
 
 
@@ -18,13 +20,13 @@ identificando padrões e desenvolvendo algoritmos eficientes para resolvê-los. 
 
 ## O que você encontrará aqui
 
-1. **Materiais da disciplina**: Nesta seção, você encontrará os slides das aulas, materiais de leitura recomendados e 
+- **Materiais da disciplina**: Nesta seção, você encontrará os slides das aulas, materiais de leitura recomendados e 
 outros recursos relacionados ao conteúdo do curso. Certifique-se de revisar esses materiais regularmente para se manter atualizado.
 
-3. **Projetos Práticos**: Aprender Pensamento Computacional é mais eficaz quando aplicamos os conceitos em projetos reais. 
+- **Projetos Práticos**: Aprender Pensamento Computacional é mais eficaz quando aplicamos os conceitos em projetos reais. 
 Aqui, você encontrará descrições detalhadas de projetos práticos que ajudarão a solidificar o seu entendimento e aprimorar suas habilidades.
 
-4. **Recursos Adicionais**: Esta seção inclui links para artigos, vídeos e tutoriais que complementam o conteúdo do curso. 
+- **Recursos Adicionais**: Esta seção inclui links para artigos, vídeos e tutoriais que complementam o conteúdo do curso. 
 Sinta-se à vontade para explorar esses recursos para aprofundar ainda mais o seu conhecimento.
 
 
