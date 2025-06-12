@@ -40,11 +40,11 @@ Sinta-se à vontade para explorar esses recursos para aprofundar ainda mais o se
 
 ### 2º trimestre
 
-- **Unidade 1:** <a href="">Agrinho 2025 - Categoria JavaScript com P5.js</a>
+- **Unidade 1:** <a href="https://cursos.alura.com.br/course/agrinho-2025-javascript">Agrinho 2025 - Categoria JavaScript com P5.js</a>
   
-- **Unidade 2:** <a href="">Funções: desenvolvendo um recomendador de filmes com JavaScript</a>
+- **Unidade 2:** <a href="https://cursos.alura.com.br/course/funcoes-recomendador-filmes-javascript">Funções: desenvolvendo um recomendador de filmes com JavaScript</a>
 
-- **Unidade 3:** <a href="">Página Web: criando um catálogo de vídeos com HTML e CSS</a>
+- **Unidade 3:** <a href="https://cursos.alura.com.br/course/pagina-web-catalogo-videos-html-css">Página Web: criando um catálogo de vídeos com HTML e CSS</a>
   
 - **Unidade 4:** <a href="https://cursos.alura.com.br/course/algoritmos-criando-aventura-html-css-javascript">Algoritmos: criando uma aventura com HTML, CSS e JavaScript</a>
 
