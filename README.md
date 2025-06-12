@@ -34,9 +34,9 @@ Sinta-se à vontade para explorar esses recursos para aprofundar ainda mais o se
 ## 2025
 ### 1º trimestre
 
-- **Unidade 1:** Lógica de programação: criando arte interativa com P5.js
+- **Unidade 1:** <a href="https://cursos.alura.com.br/course/criando-arte-interativa-com-p5js">Lógica de programação: criando arte interativa com P5.js</a>
   
-- **Unidade 2:** Listas, funções e repetição: criando um jogo de corrida
+- **Unidade 2:** <a href="https://cursos.alura.com.br/course/lista-funcao-repeticao-jogo-corrida!">Listas, funções e repetição: criando um jogo de corrida</a>
 
 ### 2º trimestre
 
