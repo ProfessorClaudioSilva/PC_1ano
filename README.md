@@ -29,6 +29,34 @@ Aqui, você encontrará descrições detalhadas de projetos práticos que ajudar
 - **Recursos Adicionais**: Esta seção inclui links para artigos, vídeos e tutoriais que complementam o conteúdo do curso. 
 Sinta-se à vontade para explorar esses recursos para aprofundar ainda mais o seu conhecimento.
 
+## Unidades de cursos na plataforma Alura
+
+## 2025
+### 1º trimestre
+
+- **Unidade 1:** Lógica de programação: criando arte interativa com P5.js
+  
+- **Unidade 2:** Listas, funções e repetição: criando um jogo de corrida
+
+### 2º trimestre
+
+- **Unidade 1:** Agrinho 2025 - Categoria JavaScript com P5.js
+  
+- **Unidade 2:** Funções: desenvolvendo um recomendador de filmes com JavaScript
+
+- **Unidade 3:** Página Web: criando um catálogo de vídeos com HTML e CSS
+  
+- **Unidade 4:** <a ref="https://cursos.alura.com.br/course/algoritmos-criando-aventura-html-css-javascript">Algoritmos: criando uma aventura com HTML, CSS e JavaScript</a>
+
+### 3º trimestre
+
+- **Unidade 1**
+  
+- **Unidade 2**
+
+- **Unidade 3**
+  
+- **Unidade 4**
 
 ## Como Contribuir
 
