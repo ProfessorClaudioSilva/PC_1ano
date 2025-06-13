@@ -58,8 +58,12 @@ Sinta-se à vontade para explorar esses recursos para aprofundar ainda mais o se
   
 - **Unidade 4**
 
-## Como acessar
+## Como Utilizar
 
+- Navegue pelas pastas conforme o tema ou tipo de material desejado.
+- Baixe ou imprima as atividades e utilize-as em seus projetos.
+- Adapte os conteúdos de acordo com a necessidade dos alunos.
+- Ou navegue pelos conteúdos como uma página WEB, clicando <a href="">AQUI</a>!
 
 
 ## Como Contribuir
