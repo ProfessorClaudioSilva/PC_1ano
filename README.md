@@ -34,19 +34,19 @@ Sinta-se à vontade para explorar esses recursos para aprofundar ainda mais o se
 ## 2025
 ### 1º trimestre
 
-- **Unidade 1:** <a href="https://cursos.alura.com.br/course/criando-arte-interativa-com-p5js">Lógica de programação: criando arte interativa com P5.js</a>
+- **Unidade 1:** <a href="https://cursos.alura.com.br/course/criando-arte-interativa-com-p5js" target="_blank" rel="noopener noreferrer">Lógica de programação: criando arte interativa com P5.js</a>
   
-- **Unidade 2:** <a href="https://cursos.alura.com.br/course/lista-funcao-repeticao-jogo-corrida!">Listas, funções e repetição: criando um jogo de corrida</a>
+- **Unidade 2:** <a href="https://cursos.alura.com.br/course/lista-funcao-repeticao-jogo-corrida!" target="_blank" rel="noopener noreferrer">Listas, funções e repetição: criando um jogo de corrida</a>
 
 ### 2º trimestre
 
-- **Unidade 1:** <a href="https://cursos.alura.com.br/course/agrinho-2025-javascript">Agrinho 2025 - Categoria JavaScript com P5.js</a>
+- **Unidade 1:** <a href="https://cursos.alura.com.br/course/agrinho-2025-javascript" target="_blank" rel="noopener noreferrer">Agrinho 2025 - Categoria JavaScript com P5.js</a>
   
-- **Unidade 2:** <a href="https://cursos.alura.com.br/course/funcoes-recomendador-filmes-javascript">Funções: desenvolvendo um recomendador de filmes com JavaScript</a>
+- **Unidade 2:** <a href="https://cursos.alura.com.br/course/funcoes-recomendador-filmes-javascript" target="_blank" rel="noopener noreferrer">Funções: desenvolvendo um recomendador de filmes com JavaScript</a>
 
-- **Unidade 3:** <a href="https://cursos.alura.com.br/course/pagina-web-catalogo-videos-html-css">Página Web: criando um catálogo de vídeos com HTML e CSS</a>
+- **Unidade 3:** <a href="https://cursos.alura.com.br/course/pagina-web-catalogo-videos-html-css" target="_blank" rel="noopener noreferrer">Página Web: criando um catálogo de vídeos com HTML e CSS</a>
   
-- **Unidade 4:** <a href="https://cursos.alura.com.br/course/algoritmos-criando-aventura-html-css-javascript">Algoritmos: criando uma aventura com HTML, CSS e JavaScript</a>
+- **Unidade 4:** <a href="https://cursos.alura.com.br/course/algoritmos-criando-aventura-html-css-javascript" target="_blank" rel="noopener noreferrer">Algoritmos: criando uma aventura com HTML, CSS e JavaScript</a>
 
 ### 3º trimestre
 
@@ -63,7 +63,7 @@ Sinta-se à vontade para explorar esses recursos para aprofundar ainda mais o se
 - Navegue pelas pastas conforme o tema ou tipo de material desejado.
 - Baixe ou imprima as atividades e utilize-as em seus projetos.
 - Adapte os conteúdos de acordo com a necessidade dos alunos.
-- Ou navegue pelos conteúdos como uma página WEB, clicando <a href="https://professorclaudiosilva.github.io/PC_1ano/">AQUI</a>!
+- Ou navegue pelos conteúdos como uma página WEB, clicando <a href="https://professorclaudiosilva.github.io/PC_1ano/" target="_blank" rel="noopener noreferrer">AQUI</a>!
 
 
 ## Como Contribuir
